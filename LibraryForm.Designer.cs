@@ -1,6 +1,6 @@
 ﻿namespace Лаба_1
 {
-    partial class Form1
+    partial class LibraryForm
     {
         /// <summary>
         /// Обязательная переменная конструктора.
