@@ -30,19 +30,19 @@ namespace Лаба_1
             {
                 Location = new System.Drawing.Point(10, 10),
                 Width = 150,
-                PlaceholderText = "Автор"
+                Text = "Автор"
             };
             titleTextBox = new TextBox
             {
                 Location = new System.Drawing.Point(170, 10),
                 Width = 150,
-                PlaceholderText = "Название"
+                Text = "Название"
             };
             yearTextBox = new TextBox
             {
                 Location = new System.Drawing.Point(330, 10),
                 Width = 80,
-                PlaceholderText = "Год"
+                Text = "Год"
             };
             addBookButton = new Button
             {
@@ -62,7 +62,7 @@ namespace Лаба_1
             {
                 Location = new System.Drawing.Point(10, 70),
                 Width = 200,
-                PlaceholderText = "Поиск"
+                Text = "Поиск"
             };
             searchButton = new Button
             {
